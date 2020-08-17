@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader/subproject",
+    "build_dir":          "C:/Users/kirik/OneDrive/Documenten/PlatformIO/Projects/200808-113956-espidf-hello-world/.pio/build/lolin32/bootloader",
+    "config_file":        "C:/Users/kirik/OneDrive/Documenten/PlatformIO/Projects/200808-113956-espidf-hello-world/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "HEAD-HASH-NOTFOUND",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/kirik/.platformio/packages/framework-espidf/components/efuse/Kconfig;C:/Users/kirik/.platformio/packages/framework-espidf/components/esp32/Kconfig;C:/Users/kirik/.platformio/packages/framework-espidf/components/esp_common/Kconfig;C:/Users/kirik/.platformio/packages/framework-espidf/components/log/Kconfig;C:/Users/kirik/.platformio/packages/framework-espidf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader/Kconfig.projbuild;C:/Users/kirik/.platformio/packages/framework-espidf/components/esptool_py/Kconfig.projbuild;C:/Users/kirik/.platformio/packages/framework-espidf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader", "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader_support", "C:/Users/kirik/.platformio/packages/framework-espidf/components/efuse", "C:/Users/kirik/.platformio/packages/framework-espidf/components/esp32", "C:/Users/kirik/.platformio/packages/framework-espidf/components/esp_common", "C:/Users/kirik/.platformio/packages/framework-espidf/components/esp_rom", "C:/Users/kirik/.platformio/packages/framework-espidf/components/esptool_py", "C:/Users/kirik/.platformio/packages/framework-espidf/components/log", "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader/subproject/main", "C:/Users/kirik/.platformio/packages/framework-espidf/components/bootloader/subproject/components/micro-ecc", "C:/Users/kirik/.platformio/packages/framework-espidf/components/partition_table", "C:/Users/kirik/.platformio/packages/framework-espidf/components/soc", "C:/Users/kirik/.platformio/packages/framework-espidf/components/spi_flash", "C:/Users/kirik/.platformio/packages/framework-espidf/components/xtensa", "" ]
+}
